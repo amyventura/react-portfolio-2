@@ -1,0 +1,60 @@
+{
+  "main": {
+    "name":"Amy Ventura",
+    "description":"Hard-working and highly motivated front-end web developer. Earned a certificate in full stack development from the University of Columbia and use my English background to build more effective user experiences on the web",
+    "image":"profilepic.jpg",
+    "bio":"My name is Amy Ventura and I am a web developer. I have developed skills in HTML, CSS, JavaScript, Jquery, Ajax, React, responsive web design, and more. I recently developed an app with a team that allows web developers to create and post their profiles, defining their years of experience, training or schooling, technologies, and the location of where they are located. Companies are also able to post software projects and employment opportunities. We created the app with the intention of making it easier for web developers to find employment and to have a place where they can look for jobs specific to their field or technologies, and where companies can also view their profile. ",
+    "contactmessage":"Submit the form below and I will contact you as soon as I can! ",
+    "email": "amyvntr@gmail.com",
+    "phone": "(516)-309-1162",
+    "github":"https://github.com/amyventura",
+    "linkedin":"https://www.linkedin.com/in/amy-ventura-a654a0120",
+    "address":{
+      "city":"Long Island",
+      "state":"New York",
+      "zip": "11518"
+    },
+    "resumedownload":"https://docs.google.com/document/d/1k6GTNIqjWYwUXKF1y1cgyqsJNrnxl4L2BuLY6LVzD3w/view",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/amyventura",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"techRacoon",
+        "category":"Take notes with Express",
+        "image":"techRaccoon.png",
+        "url":"https://intense-falls-12076.herokuapp.com/"
+      },
+      {
+        "title":"Note Taker",
+        "category":"Note Taking App",
+        "image":"noteTaker.png",
+        "url":"https://polar-falls-96628.herokuapp.com/"
+      },
+      {
+        "title":"Offline Budget Tracker",
+        "category":"Budget App",
+        "image":"budget.png",
+        "url":"https://secure-reaches-90319.herokuapp.com/"
+      },
+      {
+        "title":"ReadMe Generator",
+        "category":"Readme Generator",
+        "image":"readme.png",
+        "url":"https://github.com/amyventura/readme-generator/blob/master/index.js"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"Weather App",
+        "image":"weatherDashboard.png",
+        "url":"https://amyventura.github.io/weather-dashboard/"
+      }
+    ]
+  }
+}
